@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Evaluacion1</string>
+    <string name="caf_expresso">Café Expresso</string>
+    <string name="precio_1200">Precio: $1200</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="total">Total:</string>
+    <string name="total_pagar">TOTAL PAGAR</string>
+    <string name="ingrese_cantidad">Ingrese Cantidad</string>
+    <string name="todo">TODO</string>
+</resources>
